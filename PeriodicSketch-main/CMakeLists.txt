@@ -19,5 +19,4 @@ add_executable(Periodic
         common/StreamSummary.h
         common/Util.h
         benchmark.h
-        main.cpp
-        README.md)
+        main.cpp)
