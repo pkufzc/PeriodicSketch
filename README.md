@@ -25,5 +25,5 @@ $ git clone https://github.com/pkufzc/PeriodicSketch.git
 $ cd ./PeriodicSketch/PeriodicSketch-main/
 $ cmake .
 $ make
-$ ./Periodic {your-dataset}
+$ ./PeriodicSketch-main {your-dataset}
 ```
