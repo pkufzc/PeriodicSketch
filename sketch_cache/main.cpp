@@ -9,10 +9,10 @@
 #include "../common/Util.h"
 #include "LRU.h"
 #include "LFU.h"
-#include "ours_LFU.h"
-#include "ours_LRU.h"
-#include "tower_LRU.h"
-#include "tower_LFU.h"
+#include "basic_LFU.h"
+#include "basic_LRU.h"
+#include "adv_LRU.h"
+#include "adv_LFU.h"
 #include <fstream>
 #include <sstream>
 #include <stdexcept>

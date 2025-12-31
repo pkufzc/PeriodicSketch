@@ -1,9 +1,9 @@
-#ifndef _ours_LFU_H
-#define _ours_LRU_H
+#ifndef _basic_LFU_H
+#define _basic_LRU_H
 
 #include <queue>
 #include "LFU.h"
-#include "../Algorithm/Ours.h"
+#include "../Algorithm/basic.h"
 using namespace std;
 
 struct lfu_cmp

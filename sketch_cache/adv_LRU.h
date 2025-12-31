@@ -1,9 +1,9 @@
-#ifndef _tower_LRU_H
-#define _tower_LRU_H
+#ifndef _adv_LRU_H
+#define _adv_LRU_H
 
 #include <queue>
 #include "LRU.h"
-#include "../Algorithm/tower.h"
+#include "../Algorithm/adv.h"
 #include "list.h"
 using namespace std;
 

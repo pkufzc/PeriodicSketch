@@ -1,7 +1,7 @@
 
 #include <queue>
 #include "LRU.h"
-#include "../Algorithm/Ours.h"
+#include "../Algorithm/basic.h"
 #include "list.h"
 using namespace std;
 

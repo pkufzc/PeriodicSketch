@@ -13,7 +13,7 @@ To overcome PeriodicSketch’s key limitation of static memory allocation, we pr
 Repository structure
 --------------------
 *  `common/`: the hash function and bitmap data structure used by algorithms
-*  `Algorithm/`: the implementation of the baseline solution, the basic version PeriodicSketch (Ours.h), and the advanced version PeriodicSketch+ (tower.h).
+*  `Algorithm/`: the implementation of the baseline solution, the basic version PeriodicSketch (basic.h), and the advanced version PeriodicSketch+ (adv.h).
 *  `benchmark.h`: C++ header of some benchmarks about accuracy
 
 Requirements

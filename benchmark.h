@@ -10,9 +10,9 @@
 #include <iomanip>
 
 #include "Algorithm/Abstract.h"
-#include "Algorithm/Ours.h"
+#include "Algorithm/basic.h"
 #include "Algorithm/Baseline.h"
-#include "Algorithm/tower.h"
+#include "Algorithm/adv.h"
 #include "common/MMap.h"
 
 

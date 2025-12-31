@@ -11,8 +11,8 @@
 #include <unordered_map>  
 
 #include "Algorithm/Baseline.h"
-#include "Algorithm/Ours.h"
-#include "Algorithm/tower.h"
+#include "Algorithm/basic.h"
+#include "Algorithm/adv.h"
 #include "common/MMap.h"
 static std::ofstream MP("mp.txt");
 

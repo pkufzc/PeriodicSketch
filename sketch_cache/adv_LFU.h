@@ -1,12 +1,10 @@
-#ifndef _tower_LFU_H
-#define _tower_LFU_H
+#ifndef _adv_LFU_H
+#define _adv_LFU_H
 
 #include <queue>
 #include "LFU.h"
-#include "../Algorithm/tower.h"
+#include "../Algorithm/adv.h"
 using namespace std;
-
-
 
 class tower_lfu : public lfu
 {

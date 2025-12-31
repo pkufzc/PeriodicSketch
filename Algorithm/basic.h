@@ -1,5 +1,5 @@
-#ifndef OURS_H
-#define OURS_H
+#ifndef BASIC_H
+#define BASIC_H
 #include<iostream>
 #include <fstream>
 #include "Abstract.h"
