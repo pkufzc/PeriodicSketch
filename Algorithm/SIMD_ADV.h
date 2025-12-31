@@ -37,7 +37,6 @@ public:
     uint64_t old_actual_w = 0;
     uint32_t transition_cnt = 0;
     const uint32_t transition_window = 2000;
-
     Matrix() {}
     Matrix(uint64_t in_w, uint64_t in_h, uint8_t in_counter_len) {
         init(in_w, in_h, in_counter_len);
