@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/PeriodicSketchhhh1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Periodic.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Periodic.dir\\main_all.cpp.obj -c E:\\PeriodicSketchhhh1\\main_all.cpp",
+  "file": "E:/PeriodicSketchhhh1/main_all.cpp",
+  "output": "CMakeFiles/Periodic.dir/main_all.cpp.obj"
+}
+]

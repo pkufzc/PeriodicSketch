@@ -10,7 +10,7 @@ include_directories(common)
 add_executable(Periodic
         Algorithm/Abstract.h
         Algorithm/Baseline.h
-        Algorithm/Ours.h
+        Algorithm/basic.h
         common/BitMap.h
         common/CuckooMap.h
         common/hash.h

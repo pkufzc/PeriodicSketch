@@ -26,8 +26,8 @@ How to run
 
 ```bash
 $ git clone https://github.com/pkufzc/PeriodicSketch.git
-$ cd ./PeriodicSketch/PeriodicSketch-main/
+$ cd ./PeriodicSketch/
 $ cmake .
 $ make
-$ ./Periodic {your-dataset}
+$ ./Periodic {your-dataset} {memory}
 ```
